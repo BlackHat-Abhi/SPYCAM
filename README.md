@@ -1,4 +1,5 @@
 # SPYCAM
+![Visitors](https://api.visitorbadge.io/api/visitors?path=BlackHat-Ahhi/SPYCAM&label=Total%20Visitors&countColor=%2300ff00)
 
 # 🎯 Front Camera Hacking Tool by Team HackWithDroid
 
@@ -66,7 +67,8 @@ Each page uses camera access + social engineering trick to simulate attack.
 ```javascript
 git clone https://github.com/BlackHat-Abhi/SPYCAM.git
 cd SPYCAM
-./setup.sh
+chmod +x setup.sh
+bash setup.sh
 ```
 
 ## Screenshots
