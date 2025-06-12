@@ -1,5 +1,5 @@
 # SPYCAM
-![Visitors](https://api.visitorbadge.io/api/visitors?path=BlackHat-Ahhi/SPYCAM&label=Total%20Visitors&countColor=%2300ff00)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=BlackHat-Ahhi/SPYCAM&label=Total%20Visitors&countColor=%230a1d66)
 
 # 🎯 Front Camera Hacking Tool by Team HackWithDroid
 
