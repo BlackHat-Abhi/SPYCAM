@@ -15,7 +15,7 @@ This tool is designed for **ethical security research and educational demonstrat
 - 🌐 Multiple tunneling options: **localhost**, **Serveo**, **Ngrok**
 - 📝 Real-time log of IP address & image filenames
 - 🔒 Clean-up on exit (optional)
-- 🛠️ Fully scriptable via `start.sh`
+- 🛠️ Fully scriptable via `setup.sh`
 
 ---
 
@@ -70,6 +70,12 @@ cd SPYCAM
 chmod +x setup.sh
 bash setup.sh
 ```
+
+## 📺 Set-up  YouTube Video
+
+Watch the full demo of **SPYCAM** in action:
+
+[![SPYCAM DEMO](https://img.youtube.com/vi/deXfoZr6I2E/0.jpg)](https://youtu.be/deXfoZr6I2E?si=VjkfSNxNDvQrCyff)
 
 ## Screenshots
 
